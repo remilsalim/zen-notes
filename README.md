@@ -71,4 +71,10 @@ The output will be found in the `dist` folder.
 
 Zen Notes was born out of a desire for a distraction-free, "zen" environment for daily tasks. Most sticky note apps are either too heavy or look outdated. This project aims to provide a premium, lightweight alternative that respects your desktop real estate while adding a touch of personality with motivational quotes and smooth animations.
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
 Created with ❤️ by [remilsalim](https://github.com/remilsalim)
