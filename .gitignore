@@ -7,12 +7,31 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Dependencies
 node_modules
 dist
 dist-ssr
 *.local
 
-# Editor directories and files
+# Electron & OS Builds
+dist_electron
+out
+*.exe
+*.dmg
+*.zip
+*.deb
+*.rpm
+
+# Confidential & Env
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.cert
+*.pfx
+
+# IDE / Editor
 .vscode/*
 !.vscode/extensions.json
 .idea
@@ -22,3 +41,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+Thumbs.db
