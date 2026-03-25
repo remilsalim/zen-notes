@@ -1,5 +1,6 @@
 {
   "name": "sticky-notes",
+  "description": "🧘 Zen Notes - A minimalist, transparent, and draggable sticky task widget for your desktop.",
   "private": true,
   "version": "0.0.0",
   "type": "module",
