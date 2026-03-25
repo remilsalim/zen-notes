@@ -21,7 +21,12 @@ function createWindow() {
     },
   });
 
-  win.loadURL('http://localhost:5173');
+  const isDev = !app.isPackaged;
+  if (isDev) {
+    win.loadURL('http://localhost:5173');
+  } else {
+    win.loadFile(path.join(__dirname, 'dist/index.html'));
+  }
 }
 
 // IPC Listeners
