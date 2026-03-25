@@ -2,7 +2,7 @@
 
 **Zen Notes** is a minimalist, transparent sticky note widget designed to keep your focus sharp and your desktop clean. Built with React, Vite, and Electron, it blends seamlessly into your workspace while providing powerful task management features.
 
-![Zen Notes Preview](https://via.placeholder.com/800x450?text=Zen+Notes+Preview)
+
 
 ## ✨ Features
 
